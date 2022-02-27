@@ -44,7 +44,7 @@ Python 3.7.6, Jupyter notebook 6.4.6
 
       
   - Scores by school type
-    - Finally, there was a change in outcomes regarding school type, since Thomas HS is a charter school.  The impact is seen as a lower percentage of students passing math and reading.
+    - Finally, there was a change in outcomes regarding school type, since Thomas HS is a charter school.  The impact is seen as a lower percentage of students passing math and reading, while there was no change in the average scores.
       
     - Before:
     ![image](https://user-images.githubusercontent.com/98435855/155899200-eda214fe-e76b-463a-a0ac-da69975f52c4.png)
