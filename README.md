@@ -27,7 +27,7 @@ Python 3.7.6, Jupyter notebook 6.4.6
   - Math and reading scores by grade 
     - The initial ninth grade math and reading scores at Thomas HS were 83.6 and 83.7, respectively.   
     - These were within 1% of the grades posted for tenth through twelfth graders at Thomas HS.
-    - The overall average math schores for all ninth graders changed from 80.35 to 80.12 following the removal of questionable data.
+    - The overall average math scores for all ninth graders in the district changed from 80.35 to 80.12 following the removal of questionable data, which is not significant.
     
   - Scores by school spending
     - The average math score declined by -0.077, from 83.418349 to 83.350937, which is statistically insignificant.
@@ -39,7 +39,7 @@ Python 3.7.6, Jupyter notebook 6.4.6
    - Before:
     ![image](https://user-images.githubusercontent.com/98435855/155899134-deea4639-f9ee-456c-8032-4806ec2a1182.png)
 
-   - After :
+   - After  :
     ![image](https://user-images.githubusercontent.com/98435855/155899149-16d87719-c907-4139-afa8-e05139cc97ec.png)
 
       
@@ -49,7 +49,7 @@ Python 3.7.6, Jupyter notebook 6.4.6
     - Before:
     ![image](https://user-images.githubusercontent.com/98435855/155899200-eda214fe-e76b-463a-a0ac-da69975f52c4.png)
 
-    - After :
+    - After  :
     ![image](https://user-images.githubusercontent.com/98435855/155899213-458ccccd-8998-4e3c-84dc-e955961ada10.png)
 
 ## Summary
