@@ -10,17 +10,17 @@ Python 3.7.6, Jupyter notebook 6.4.6
 
 ##  School District Analysis Results
   - How is the district summary affected?
-    - The original total count of 39,170 students was reduced by 461 students as the result of removing the ninth grade Thomas High School test scores.
+    - The original total count of 39,170 students' test scores were reduced by 461 students, as a result of removing the ninth grade Thomas High School test scores.
     - This represents 1.1% of the total sample size, which is immaterial in total.
     - ![image](https://user-images.githubusercontent.com/98435855/155897353-22a5cf5d-1587-4cc0-a06d-bb2b67c19f48.png)
 
 
   - How is the school summary affected?
-    - The original total count of 1,635 students test scores at Thomas High School was reduced by 461 test scores, or 28% of the results, which is statistically significant.
+    - The original total count of 1,635 students' test scores at Thomas High School was reduced by 461, or 28% of the results, which is statistically significant for one school.
     
   - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-    - The removal of the ninth grade test scores from Thomas High School resulted in a substantially lower overall percentage of passing students, due to the reduction of 461 results.
-    - However, the updated average math and reading scores did not significantly change with the removal of ninth grade results, suggesting that any manipulation of ninth grade test scores did not skew results.
+    - The removal of the ninth grade test scores from Thomas High School resulted in a substantially lower overall percentage of passing students, due to the reduction of 461 results, relative to the total number test scores analyzed.
+    - However, the updated average math and reading scores did not significantly change with the removal of ninth grade results, suggesting that any manipulation of ninth grade test scores did not skew results for overall scores.
     
 ### Additional Analysis
 
